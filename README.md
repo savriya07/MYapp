@@ -1,2 +1,2 @@
 # myapp
-mpapp
+myapp
